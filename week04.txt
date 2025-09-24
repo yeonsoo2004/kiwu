@@ -4,4 +4,8 @@ git pull origin main
 
 
 깃 명령어 
+<<<<<<< HEAD
 git log --oneline --graph
+=======
+git log --graph --oneline
+>>>>>>> ff2698572bb30f320e8adc19acfce7f13bcb9361

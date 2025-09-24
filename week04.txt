@@ -1,1 +1,2 @@
 cp 원본파일 복사본파일
+git pull origin main

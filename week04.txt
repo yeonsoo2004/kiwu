@@ -1,2 +1,7 @@
+리눅스 명령어
 cp 원본파일 복사본파일
 git pull origin main
+
+
+깃 명령어 
+git log --graph --oneline
